@@ -5,7 +5,7 @@ The model was introduced in Mikolov et al. 2013 (https://arxiv.org/pdf/1301.3781
 The model captures some linguistic patterns between word vectors and performs well on the word analogy task.
 
 For instance, the embedding vectors learned using the word2vec approach have the following property:
-$e_{France} - e_{Paris} = e_{England} - e_{London}$ (where $e_X$ stands for the embedding of the word X).
+$e_{France} - e_{Paris} = e_{England} - e_{London}$ (where $e_X$ stands for the embedding of the word $X$).
 
 The project is divided into four parts:
 
